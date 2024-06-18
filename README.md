@@ -1,4 +1,4 @@
-# Maven-Java-Project
+# CI-CD Jenkins Pipeline
 
 This is a simple java project that displays "Hello World" on CLI.
 
